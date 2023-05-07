@@ -1,4 +1,4 @@
-const API_URL = "https://nipadmin.herokuapp.com/submitscore";
+const API_URL = "thekuro.in";
 
 export default class APIManager {
   private static instance: APIManager = null;
