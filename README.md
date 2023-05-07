@@ -7,7 +7,7 @@ This is a simple quiz application developed using Phaser 3 and Webpack. All the 
 To install the application, clone the repository and install the dependencies using npm:
 
 ```
-git clone https://github.com/nitinparmar7/quiz.git
+git clone https://github.com/NitinParmar7/Quiz.git
 cd quiz
 npm install
 ```
