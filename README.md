@@ -27,7 +27,6 @@ Once you start the quiz, you will be presented with a series of multiple choice 
 Modifying Questions
 
 The questions for the quiz are loaded from a JSON file located at src/assets/data/questions.json. To modify the questions, simply edit this file to add, remove, or modify questions.
-```
 
 ## Building for Production
 
