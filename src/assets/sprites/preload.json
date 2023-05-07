@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "preload.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1971,
+				"h": 1922
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg.jpg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 1920
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 1920
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1080,
+						"h": 1920
+					}
+				},
+				{
+					"filename": "loading_logo_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 942,
+						"h": 821
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 0,
+						"w": 887,
+						"h": 821
+					},
+					"frame": {
+						"x": 1083,
+						"y": 1,
+						"w": 887,
+						"h": 821
+					}
+				},
+				{
+					"filename": "load_bar_bot_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 78
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 544,
+						"h": 73
+					},
+					"frame": {
+						"x": 1083,
+						"y": 824,
+						"w": 544,
+						"h": 73
+					}
+				},
+				{
+					"filename": "load_bar_top_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 78
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 9,
+						"w": 516,
+						"h": 43
+					},
+					"frame": {
+						"x": 1083,
+						"y": 899,
+						"w": 516,
+						"h": 43
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:cacbc0a9af7577b71e6babfe6cff364a:a69ab6a84e22bd1542fb86b180d1c66e:0790f32caa6e98ceb330f91ea7d22e84$"
+	}
+}

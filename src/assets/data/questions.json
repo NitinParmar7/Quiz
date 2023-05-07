@@ -1,0 +1,129 @@
+{
+  "Time": 10,
+  "ScorePerQuestion": 100,
+  "TotalQuestion": 10,
+  "NextQuestionDelay": 3,
+  "Link": "https://google.com",
+  "Questions": [
+    {
+      "QuestionTitle": "D-app “Yeep” Stands for:",
+      "Options": ["Your easyday Earning plan", "Your extensive earning plan", "Your everyday earning plan", "None of the above"],
+      "Answer": 3
+    },
+    {
+      "QuestionTitle": "What is “Law of leverage” ?",
+      "Options": ["Multiplying Your Time Thru Others ", "Multiplying time on your own", "Both a and b", "None of the above "],
+      "Answer": 1
+    },
+    {
+      "QuestionTitle": "What is Cryptocurrency?",
+      "Options": ["Medium of exchange in the form of paper", "Medium of exchange in the form of digital assets", "Medium of exchange in the form of Coins", "None of the above"],
+      "Answer": 2
+    },
+    {
+      "QuestionTitle": "Fiat Money _____",
+      "Options": ["derives its value from some substances", "Can be stored in a device", "is a government issued currency", "Is basically a computer file"],
+      "Answer": 3
+    },
+    {
+      "QuestionTitle": "How you can earn cryptocurrency ?",
+      "Options": ["Earn as regular income as in D-app “Yeep”", "Earn through trading", "Earn through Defi ecosystem", "All of the above"],
+      "Answer": 4
+    },
+    {
+      "QuestionTitle": "What is Minting in Crypto?",
+      "Options": [
+        "Validation of transactions through any local banks ",
+        "Validation of information through RBI",
+        "Person to person validation of information",
+        "Computer process of validating information"
+      ],
+      "Answer": 4
+    },
+    {
+      "QuestionTitle": "Cryptocurrency Mining is_______",
+      "Options": [
+        "Transaction between exchanges are verified and added",
+        "Transaction between banks are verified",
+        "Transaction between users are verified and added to the blockchain public ledger ",
+        "None of the above"
+      ],
+      "Answer": 3
+    },
+    {
+      "QuestionTitle": "What is swapping in crypto?",
+      "Options": ["Exchange between all cryptocurrencies", "Exchange of bitcoin with Fiat money", "Exchange of ethereum with bitcoin", "Exchange between Fiat money."],
+      "Answer": 1
+    },
+    {
+      "QuestionTitle": "Lending or Borrowing in crypto refers to____?",
+      "Options": ["Obtaining fiat value using crypto assets loan", "Obtaining crypto assets using fiat value loan", "Both a and b", "None of the above"],
+      "Answer": 3
+    },
+    {
+      "QuestionTitle": "What is yield Farming in Crypto?",
+      "Options": [
+        "Earning crypto by permanently lending crypto assets",
+        "Earning crypto by temporarily lending crypto assets",
+        "Earning fiat by permanently lending crypto assets",
+        "Earning crypto by permanently lending fiat assets"
+      ],
+      "Answer": 2
+    },
+    {
+      "QuestionTitle": "Where is the yield farming is done in crypto?",
+      "Options": ["Defi platform", "Wallet", "Banks", "All of the above"],
+      "Answer": 1
+    },
+    {
+      "QuestionTitle": "For how much time does yield farmer contribute their assets?",
+      "Options": ["Few days", "Couple of months", "Years", "All of the above"],
+      "Answer": 4
+    },
+    {
+      "QuestionTitle": "What are utility tokens used for ?",
+      "Options": ["Mode of income", "Currency for digital payments", "Both a and b", "None of the above"],
+      "Answer": 3
+    },
+    {
+      "QuestionTitle": "WYZth is a ______",
+      "Options": ["Fiat coin", "Security token", "Fiat currency", "Utility token"],
+      "Answer": 4
+    },
+    {
+      "QuestionTitle": "WYZth is based on which Defi system?",
+      "Options": ["Erc-20", "Trc-20", "Bep2", "bep20(Bsc)"],
+      "Answer": 2
+    },
+    {
+      "QuestionTitle": "Centralized cryptocurrency exchange _______",
+      "Options": ["Has third party interference", "Peer to peer transactions ", "Funds are stored in the blockchain", "Both b and c"],
+      "Answer": 1
+    },
+    {
+      "QuestionTitle": "Decentralized cryptocurrency exchange______",
+      "Options": ["Peer to Peer transactions", "Has transactions secured by bank", "Funds are stored in the blockchain", "Both a and c"],
+      "Answer": 4
+    },
+    {
+      "QuestionTitle": "Single point of failure affects the transaction in decentralized?",
+      "Options": ["True", "False"],
+      "Answer": 2
+    },
+    {
+      "QuestionTitle": "decentralized cryptocurrency transactions offer anonymity ?",
+      "Options": ["True", "False"],
+      "Answer": 1
+    },
+    {
+      "QuestionTitle": "Which transaction has lesser exchange fees?",
+      "Options": ["Decentralized crypto exchange", "Centralized  crypto exchange"],
+      "Answer": 1
+    },
+    {
+      "QuestionTitle": "Defi means _______",
+      "Options": ["Daily Finance Value", "Decentralized Fiat", "Decentralized Finance", "Daily Defi Value"],
+      "Answer": 3
+    }
+  ]
+}

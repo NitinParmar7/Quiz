@@ -1,0 +1,440 @@
+{
+	"textures": [
+		{
+			"image": "assets-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1959,
+				"h": 1900
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "blue_patch_01.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 646
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 646
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1080,
+						"h": 646
+					}
+				},
+				{
+					"filename": "logo_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 942,
+						"h": 821
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 0,
+						"w": 887,
+						"h": 821
+					},
+					"frame": {
+						"x": 1,
+						"y": 649,
+						"w": 887,
+						"h": 821
+					}
+				},
+				{
+					"filename": "gameover_pop_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 915
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 709,
+						"h": 908
+					},
+					"frame": {
+						"x": 1083,
+						"y": 1,
+						"w": 709,
+						"h": 908
+					}
+				},
+				{
+					"filename": "options_07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 848,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 842,
+						"h": 216
+					},
+					"frame": {
+						"x": 1,
+						"y": 1472,
+						"w": 842,
+						"h": 216
+					}
+				},
+				{
+					"filename": "green_button_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 843,
+						"h": 218
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 840,
+						"h": 214
+					},
+					"frame": {
+						"x": 890,
+						"y": 911,
+						"w": 840,
+						"h": 214
+					}
+				},
+				{
+					"filename": "options_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 843,
+						"h": 218
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 840,
+						"h": 214
+					},
+					"frame": {
+						"x": 890,
+						"y": 1127,
+						"w": 840,
+						"h": 214
+					}
+				},
+				{
+					"filename": "red_button_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 843,
+						"h": 218
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 840,
+						"h": 214
+					},
+					"frame": {
+						"x": 890,
+						"y": 1343,
+						"w": 840,
+						"h": 214
+					}
+				},
+				{
+					"filename": "timer_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 5,
+						"w": 209,
+						"h": 209
+					},
+					"frame": {
+						"x": 1,
+						"y": 1690,
+						"w": 209,
+						"h": 209
+					}
+				},
+				{
+					"filename": "timer_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 5,
+						"w": 209,
+						"h": 209
+					},
+					"frame": {
+						"x": 212,
+						"y": 1690,
+						"w": 209,
+						"h": 209
+					}
+				},
+				{
+					"filename": "timer_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 5,
+						"w": 209,
+						"h": 209
+					},
+					"frame": {
+						"x": 423,
+						"y": 1690,
+						"w": 209,
+						"h": 209
+					}
+				},
+				{
+					"filename": "timer_04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 5,
+						"w": 209,
+						"h": 209
+					},
+					"frame": {
+						"x": 634,
+						"y": 1690,
+						"w": 209,
+						"h": 209
+					}
+				},
+				{
+					"filename": "LeaderboardQuiz.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 480,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 480,
+						"h": 127
+					},
+					"frame": {
+						"x": 845,
+						"y": 1559,
+						"w": 480,
+						"h": 127
+					}
+				},
+				{
+					"filename": "play_btn_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 286,
+						"h": 181
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 6,
+						"w": 268,
+						"h": 167
+					},
+					"frame": {
+						"x": 845,
+						"y": 1688,
+						"w": 268,
+						"h": 167
+					}
+				},
+				{
+					"filename": "timer_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 5,
+						"w": 209,
+						"h": 209
+					},
+					"frame": {
+						"x": 1115,
+						"y": 1688,
+						"w": 209,
+						"h": 209
+					}
+				},
+				{
+					"filename": "timer_06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 5,
+						"w": 209,
+						"h": 209
+					},
+					"frame": {
+						"x": 1327,
+						"y": 1559,
+						"w": 209,
+						"h": 209
+					}
+				},
+				{
+					"filename": "timer_07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 5,
+						"w": 209,
+						"h": 209
+					},
+					"frame": {
+						"x": 1538,
+						"y": 1559,
+						"w": 209,
+						"h": 209
+					}
+				},
+				{
+					"filename": "timer_08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 5,
+						"w": 209,
+						"h": 209
+					},
+					"frame": {
+						"x": 1732,
+						"y": 911,
+						"w": 209,
+						"h": 209
+					}
+				},
+				{
+					"filename": "timer_09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 5,
+						"w": 209,
+						"h": 209
+					},
+					"frame": {
+						"x": 1732,
+						"y": 1122,
+						"w": 209,
+						"h": 209
+					}
+				},
+				{
+					"filename": "timer_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 5,
+						"w": 209,
+						"h": 209
+					},
+					"frame": {
+						"x": 1732,
+						"y": 1333,
+						"w": 209,
+						"h": 209
+					}
+				},
+				{
+					"filename": "timer_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 5,
+						"w": 209,
+						"h": 209
+					},
+					"frame": {
+						"x": 1749,
+						"y": 1544,
+						"w": 209,
+						"h": 209
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5da9b990c3cf714b10f8a9a7a62893ad:4864eb16522994cfec04f96d56194b45:ce25f1323d2ab1f527927b00b2e9d63f$"
+	}
+}

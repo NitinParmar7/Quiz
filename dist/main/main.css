@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+@font-face {
+    font-family: ebrima;
+	src: url('./assets/fonts/ebrima.ttf') format('truetype');
+	font-weight: normal;
+
+}
+
+@font-face {
+    font-family: ebrimabd;
+    src: url('./assets/fonts/ebrimabd.ttf') format('truetype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: FRADM;
+    src: url('./assets/fonts/FRADM.TTF') format('truetype');
+}
+
+.fontLoader {
+    position: absolute;
+    left: -1000px;
+    visibility: hidden;
+}
+
+.fontLoader2 {
+    position: absolute;
+    left: -1000px;
+    visibility: hidden;
+}
+
+.fontLoader3 {
+    position: absolute;
+    left: -1000px;
+    visibility: hidden;
+}
+
+input {
+    background-color: transparent;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    text-align: center;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: #000000
+}
